@@ -1,0 +1,11 @@
+{
+  "name": "flot-pie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/jquery.flot.pie.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Medendorp",
+  "license": "MIT"
+}
